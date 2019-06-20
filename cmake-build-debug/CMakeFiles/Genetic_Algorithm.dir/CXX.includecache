@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/CLionProjects/Genetic-Algorithm/DNA.hpp
+string
+-
+
+/home/pi/CLionProjects/Genetic-Algorithm/GeneticAlgorithm.cpp
+GeneticAlgorithm.hpp
+/home/pi/CLionProjects/Genetic-Algorithm/GeneticAlgorithm.hpp
+
+/home/pi/CLionProjects/Genetic-Algorithm/GeneticAlgorithm.hpp
+vector
+-
+random
+-
+DNA.hpp
+/home/pi/CLionProjects/Genetic-Algorithm/DNA.hpp
+
