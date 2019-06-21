@@ -11,6 +11,8 @@ vector
 -
 random
 -
+algorithm
+-
 
 /home/pi/CLionProjects/Genetic-Algorithm/main.cpp
 iostream

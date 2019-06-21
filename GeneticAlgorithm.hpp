@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <random>
+#include <algorithm>
 
 std::string rand_str(std::size_t ph_size) {
     std::string res;
@@ -27,24 +28,31 @@ private:
 public:
     DNA() : phrase(""), fitness(0.0) {};
     DNA(std::string ph, double f) : phrase(std::move(ph)), fitness(f) {};
-    std::string get_phrase() { return this->phrase; }
-    double get_fitness() { return this->fitness; }
+    std::string get_phrase() const { return this->phrase;  }
+    double get_fitness()     const { return this->fitness; }
+
     void set_phrase(const std::string &ph) {
         this->phrase = ph;
     }
+
     void set_fitness(const double f) {
         this->fitness = f;
     }
+
 };
 
 namespace GeneticAlgorithm {
     inline static std::size_t pop_count = 200;
     inline static std::string target_phase = "ThisCakeIsALie";
     inline static std::size_t phrase_length = target_phase.length();
+
+    void natural_selection();
+    std::pair<DNA, DNA> get_best_fits();
 }
 
 namespace GeneticAlgorithm::Population {
     inline static std::vector<DNA> genes;
+
     void init_genes();
 
     void calculate_fitness();
@@ -76,6 +84,23 @@ void GeneticAlgorithm::Population::calculate_fitness() {
         GeneticAlgorithm::Population::calculate_fitness(g);
         i++;
     }
+}
+
+std::pair<DNA, DNA> GeneticAlgorithm::get_best_fits() {
+    std::sort(std::begin(GeneticAlgorithm::Population::genes),
+            std::end(GeneticAlgorithm::Population::genes),
+            [](const DNA& a, const DNA& b) {
+        return a.get_fitness() > b.get_fitness();
+    });
+
+    return std::pair<DNA, DNA>{GeneticAlgorithm::Population::genes[0], GeneticAlgorithm::Population::genes[1]};
+}
+
+
+// TODO: Apply mutation and new generation.
+void GeneticAlgorithm::natural_selection() {
+    auto [DNA1, DNA2] = GeneticAlgorithm::get_best_fits();
+
 }
 
 #endif //GENETIC_ALGORITHM_GENETICALGORITHM_HPP

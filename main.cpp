@@ -3,8 +3,6 @@
 
 int main() {
     GeneticAlgorithm::Population::init_genes();
-//    for(auto c : GeneticAlgorithm::Population::genes)
-//        std::cout << c.get_phrase() << std::endl;
     GeneticAlgorithm::Population::calculate_fitness();
     DNA mx; double max_f = 0.0;
     for(auto &c : GeneticAlgorithm::Population::genes) {
@@ -12,6 +10,7 @@ int main() {
             mx = c, max_f = c.get_fitness();
         }
     }
-    std::cout << mx.get_phrase() << ' ' << mx.get_fitness();
+//    std::cout << mx.get_phrase() << ' ' << mx.get_fitness();
+//    GeneticAlgorithm::natural_selection();
     return 0;
 }
