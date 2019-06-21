@@ -79,10 +79,8 @@ void GeneticAlgorithm::Population::calculate_fitness(DNA &d) {
 }
 
 void GeneticAlgorithm::Population::calculate_fitness() {
-    int i = 0;
     for(auto &g : GeneticAlgorithm::Population::genes) {
         GeneticAlgorithm::Population::calculate_fitness(g);
-        i++;
     }
 }
 
@@ -93,9 +91,8 @@ std::pair<DNA, DNA> GeneticAlgorithm::get_best_fits() {
         return a.get_fitness() > b.get_fitness();
     });
 
-    return std::pair<DNA, DNA>{GeneticAlgorithm::Population::genes[0], GeneticAlgorithm::Population::genes[1]};
+    return {GeneticAlgorithm::Population::genes[0], GeneticAlgorithm::Population::genes[1]};
 }
-
 
 // TODO: Apply mutation and new generation.
 void GeneticAlgorithm::natural_selection() {

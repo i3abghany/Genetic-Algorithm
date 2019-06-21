@@ -10,7 +10,7 @@ int main() {
             mx = c, max_f = c.get_fitness();
         }
     }
-//    std::cout << mx.get_phrase() << ' ' << mx.get_fitness();
-//    GeneticAlgorithm::natural_selection();
+
+    GeneticAlgorithm::natural_selection();
     return 0;
 }
