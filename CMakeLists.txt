@@ -3,4 +3,4 @@ project(Genetic_Algorithm)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Genetic_Algorithm main.cpp GeneticAlgorithm.cpp DNA.hpp GeneticAlgorithm.hpp)
+add_executable(Genetic_Algorithm main.cpp GeneticAlgorithm.hpp GeneticAlgorithm.hpp)
