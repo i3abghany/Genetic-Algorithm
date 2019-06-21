@@ -5,22 +5,6 @@
 #include <random>
 #include <algorithm>
 
-std::string rand_str(std::size_t ph_size) {
-    std::string res;
-    std::random_device rand_dev;
-    std::mt19937 mt(rand_dev());
-    std::uniform_int_distribution<std::uint8_t> dist(65, 122);
-    for(int i = 0; i < ph_size; i++) {
-        char c = dist(mt);
-        while(!isalpha(c) && !(c == 94 || c == 95 || c == 96)) {
-            c = dist(mt);
-        }
-        if (c == 94 || c == 95 || c == 96) c = ' ';
-        res += c;
-    }
-    return res;
-}
-
 class DNA {
 private:
     std::string phrase;
@@ -54,12 +38,27 @@ namespace GeneticAlgorithm::Population {
     inline static std::vector<DNA> genes;
 
     void init_genes();
-
+    std::string rand_str(std::size_t);
     void calculate_fitness();
 
     void calculate_fitness(DNA &);
 }
 
+std::string GeneticAlgorithm::Population::rand_str(std::size_t ph_size) {
+    std::string res;
+    std::random_device rand_dev;
+    std::mt19937 mt(rand_dev());
+    std::uniform_int_distribution<std::uint8_t> dist(65, 122);
+    for(int i = 0; i < ph_size; i++) {
+        char c = dist(mt);
+        while(!isalpha(c) && !(c == 94 || c == 95 || c == 96)) {
+            c = dist(mt);
+        }
+        if (c == 94 || c == 95 || c == 96) c = ' ';
+        res += c;
+    }
+    return res;
+}
 void GeneticAlgorithm::Population::init_genes() {
     GeneticAlgorithm::Population::genes.resize(pop_count);
     for(int i = 0; i < pop_count; i++) {
