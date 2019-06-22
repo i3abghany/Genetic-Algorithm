@@ -12,10 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e9db67d-d756-4174-aac0-7cf8df7aa4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneticAlgorithm.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/GeneticAlgorithm.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Genetic_Algorithm.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Genetic_Algorithm.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Genetic_Algorithm.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Genetic_Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Genetic_Algorithm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -32,20 +34,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="352">
+              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -53,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeneticAlgorithm.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
+            <state relative-caret-position="233">
+              <caret line="77" column="49" lean-forward="true" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
               <folding>
                 <element signature="e#95#112#0" expanded="true" />
               </folding>
@@ -62,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -74,12 +67,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>genes</find>
       <find>rand</find>
+      <find>for(int</find>
+      <find>rand_st</find>
+      <find>natu</find>
+      <find>crossov</find>
+      <find>get_be</find>
+      <find>*std::</find>
+      <find>halve</find>
+      <find>cross</find>
+      <find>rand_ch</find>
+      <find>muta</find>
+      <find>j &lt; n</find>
+      <find>const stat</find>
+      <find>pool</find>
+      <find>get_b</find>
+      <find>halves</find>
+      <find>natur</find>
+      <find>phase</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,19 +110,20 @@
         <option value="$PROJECT_DIR$/DNA.cpp" />
         <option value="$PROJECT_DIR$/Population.hpp" />
         <option value="$PROJECT_DIR$/GenetricAlgorithm.hpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/GeneticAlgorithm.cpp" />
         <option value="$PROJECT_DIR$/DNA.hpp" />
-        <option value="$PROJECT_DIR$/GeneticAlgorithm.hpp" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tt.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/GeneticAlgorithm.hpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="987" />
+    <option name="x" value="54" />
     <option name="y" value="27" />
-    <option name="width" value="933" />
+    <option name="width" value="988" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -112,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,7 +144,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,29 +184,30 @@
       <updated>1561066221903</updated>
       <workItem from="1561066223219" duration="8191000" />
       <workItem from="1561122141745" duration="5040000" />
-      <workItem from="1561147668648" duration="1348000" />
+      <workItem from="1561147668648" duration="13004000" />
+      <workItem from="1561162663100" duration="1504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14579000" />
+    <option name="totallyTimeSpent" value="27739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="27" width="1866" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2554945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124175824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293348" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.3297062" />
@@ -203,9 +224,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/GeneticAlgorithm.hpp</url>
-          <line>86</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -228,43 +249,40 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GenetricAlgorithm.hpp" />
-    <entry file="file:///usr/include/c++/8/bits/basic_string.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="703" selection-start-line="703" selection-end-line="703" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GeneticAlgorithm.cpp" />
     <entry file="file://$PROJECT_DIR$/DNA.hpp" />
-    <entry file="file:///usr/include/c++/8/bits/stl_vector.h">
+    <entry file="file:///usr/include/c++/8/bits/predefined_ops.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="933" selection-start-line="933" selection-end-line="933" />
+          <caret line="142" column="17" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file:///usr/include/c++/8/ext/new_allocator.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="174">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeneticAlgorithm.hpp">
+    <entry file="file:///usr/include/c++/8/bits/stl_vector.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
-          <folding>
-            <element signature="e#95#112#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="805" selection-start-line="805" selection-end-line="805" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file:///usr/include/c++/8/bits/uniform_int_dist.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="174">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3850">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
         </state>
       </provider>
     </entry>
@@ -275,6 +293,35 @@
             <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeneticAlgorithm.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="77" column="49" lean-forward="true" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+          <folding>
+            <element signature="e#95#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
         </state>
       </provider>
     </entry>

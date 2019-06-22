@@ -1,0 +1,456 @@
+1 CkdeJaalh QYKab je 0.222222
+2 vhMMchzFVkEstA dii 0.222222
+3 vhMMPDaJNLEstA dii 0.277778
+4 XhMMcoVmezBx x Tle 0.277778
+5 HLisesUxfzbi x Tle 0.277778
+6 nriqWGHsC Eswz sie 0.333333
+7 vhdMPDame qj o diA 0.388889
+8 pOii PaQB IswA giZ 0.388889
+9 HLiseaalD Zstr sie 0.444444
+10 ghiq gaFN Iswz sie 0.5
+11 ghiq gaFN Ij OjFie 0.444444
+12 ghiq gaFN IsVa sie 0.555556
+13 sKis oVmeyws ab ie 0.5
+14 sKis oVmeyws A Eie 0.5
+15 sKis oVmeywsHa Fie 0.5
+16 njis iaQB ks a siW 0.555556
+17 pOii PaJeVZs a die 0.555556
+18 vLisLsUOe Js a Eie 0.555556
+19 sKis oalwkJs a Eie 0.555556
+20 XLis jTmewis O gie 0.555556
+21 njis MaxB ks a siW 0.555556
+22 XLis jTmewis a Pie 0.611111
+23 njis oamewis abpiZ 0.555556
+24 njis oamewis w sie 0.611111
+25 nZisDBame Js a Fie 0.611111
+26 njis zaOe JsXa Cie 0.611111
+27 njis oame wG a Eie 0.611111
+28 Hjis BameuJs a Cie 0.611111
+29 HhMM PaOe cs a uie 0.611111
+30 TZisBsame Js acuie 0.611111
+31 TZisBsame Es a sie 0.666667
+32 HKis ztge qs a sie 0.611111
+33 gKis zTkewis a die 0.666667
+34 gKis zTkewis a die 0.666667
+35 HLis same qs a Zie 0.666667
+36 nhiV oame Js a tie 0.666667
+37 shis Gamelxs a Zie 0.666667
+38 rhiM GTkewis a sie 0.666667
+39 shgs oamewis a uie 0.666667
+40 Xhis samMkis a sie 0.666667
+41 XKis jaxe is a sie 0.722222
+42 snis zakekis a Zie 0.722222
+43 nhis jame  s a Zie 0.722222
+44 snis zake  s a Zie 0.722222
+45 gKis Bake  s a uie 0.722222
+46 shis jame Bs a uie 0.722222
+47 gKis Bake  s a uie 0.722222
+48 This zlkeHis P uie 0.722222
+49 shis zakeHis a uie 0.777778
+50 shJs jakeHis a uie 0.722222
+51 Hhus ca e Ss a uie 0.722222
+52 nhis zakeQxs a Zie 0.722222
+53 shis jBke gs a yie 0.722222
+54 Qhis jlke gs a uie 0.722222
+55 Bhis jameHis a Zie 0.722222
+56 Ehis zaie es a uie 0.722222
+57 QhiE PaZeHis a Zie 0.666667
+58 nhis jBke gs a Zie 0.722222
+59 uhJs same ws a Rie 0.666667
+60 Rhis saee ps a Nie 0.722222
+61 Eyis jfBe is a uie 0.666667
+62 Ehis saee ps a Nie 0.722222
+63 nhis zEke ps a Nie 0.722222
+64 nhis zfme is a uil 0.666667
+65 nhis zfIe ps a Zie 0.666667
+66 ymis sake ps a Zie 0.722222
+67 nhis saQe xs a Wie 0.722222
+68 Hhis sakO qs a Zie 0.722222
+69 nhic same is a uie 0.722222
+70 Whis same Cs a uie 0.722222
+71 Ehis sakemxs a uie 0.722222
+72 nhis saQe ws a Wie 0.722222
+73 RKis sake is a uie 0.777778
+74 Ehis Yake Ss a uie 0.777778
+75 Ehis Yake Ss a Wie 0.777778
+76 Ehbs zake is a Wie 0.777778
+77 nhis Yake Ss a Wie 0.777778
+78 nhis sxke is P Zie 0.722222
+79 Ehis Bake is i zie 0.777778
+80 Whis sake ps a uie 0.777778
+81 Hhisssake ps a Wie 0.722222
+82 KhisVsakO is a Wie 0.722222
+83 Dhiskzake is a uie 0.777778
+84 Dhiskzake is a zie 0.777778
+85 Chis sake is a zie 0.833333
+86 whis sakeHis a uie 0.777778
+87 Chis sake isNa uie 0.777778
+88 Chis sake isNa uie 0.777778
+89 Chis Aake Ss a Pie 0.777778
+90 Ehis same is a zie 0.777778
+91 Chis Aake is a Nie 0.833333
+92 Hhis Aake is a Nie 0.833333
+93 Hhis sake is a aie 0.833333
+94 Hhis sake is a aie 0.833333
+95 Ehis sake is a aie 0.833333
+96 Hhis sake is a Sie 0.833333
+97 Hhis sake is a Gie 0.833333
+98 ehis sake is a Gie 0.833333
+99 ehis sake is a Gie 0.833333
+100 HhisAYake is a Wie 0.777778
+101 Bhis Qake is aEzie 0.777778
+102 Hhis sake is a Lie 0.833333
+103 Hhis saDe is a Gie 0.777778
+104 BhiA Qake is a Gie 0.777778
+105 vhis sake is a jie 0.833333
+106 Ehis Qaky is a aie 0.777778
+107 Ehis Qake is a Wie 0.833333
+108 Ehis Qake is a Wie 0.833333
+109 Ehis Qake is a Wie 0.833333
+110 Bhis Qake is a Wie 0.833333
+111 Ehis Qake is a Wie 0.833333
+112 Ehis Yake is a uie 0.833333
+113 Ehis sake is a zie 0.833333
+114 Ehis sake is a zie 0.833333
+115 Bhis Qake is a zie 0.833333
+116 Bhis Qake is a uie 0.833333
+117 Hhis Qake is a uie 0.833333
+118 Hhis Qake is a uie 0.833333
+119 Hhis Qake is a zie 0.833333
+120 Ehis sake is a zie 0.833333
+121 khis Yake is a zie 0.833333
+122 Hhis Qake is a aie 0.833333
+123 Bhis sake is a zie 0.833333
+124 Ehis sake is a zie 0.833333
+125 Ehis Yake is a sie 0.833333
+126 Hhis Wake is a zie 0.833333
+127 Ehis Qake is a zie 0.833333
+128 yhis Wake is a aie 0.833333
+129 Ehis Qake is a Uie 0.833333
+130 Ehis Qake is a zie 0.833333
+131 Hhis Qake is a Wie 0.833333
+132 phis Qake is a Wie 0.833333
+133 Bhis Qake is a uie 0.833333
+134 yhis Hake is aAWie 0.777778
+135 Xhis Wake is a uie 0.833333
+136 Nhis Wake is a uie 0.833333
+137 Hhis Qake is a uie 0.833333
+138 Hhis Qake is a uie 0.833333
+139 Ehis yake is a Bie 0.833333
+140 yhis Qake is a zie 0.833333
+141 zhis Qake is a Wie 0.833333
+142 Ehis Yake is a zie 0.833333
+143 Bhis Yake is a zie 0.833333
+144 uhis Qake is a zie 0.833333
+145 uhis Qake is a zie 0.833333
+146 phis Qake is a zie 0.833333
+147 vhis xake is a zie 0.833333
+148 uhis Qakj is a Wie 0.777778
+149 Xhds lake is a zie 0.777778
+150 Ehis lake ws a zie 0.777778
+151 uhis sake is a Vie 0.833333
+152 lhis lake is a Wie 0.833333
+153 uhis lake is a Wie 0.833333
+154 uhis Yake ws a Wie 0.777778
+155 uhis Qake is a Wie 0.833333
+156 EhisbXake is a Wie 0.777778
+157 uhis Qake is a Bie 0.833333
+158 Ehis zake is a Wie 0.833333
+159 Bhis zake is L Wie 0.777778
+160 Bhis QakS is a zie 0.777778
+161 phis Yake is a Rie 0.833333
+162 This YakX is a uie 0.833333
+163 phis Qake is a Wie 0.833333
+164 Xhis Qake is a Wie 0.833333
+165 Jhis Qake is a Wie 0.833333
+166 phis Qake is a Wie 0.833333
+167 uhis Qake is a Wie 0.833333
+168 Xhis Qake is a lie 0.888889
+169 Bhis lake is a gie 0.833333
+170 phis Qake is a uie 0.833333
+171 uhis Qake is a Wie 0.833333
+172 Xhis Qake is a uie 0.833333
+173 Jhis Qaue is a Kie 0.777778
+174 phis Qake is c Wie 0.777778
+175 zhis Qake is X Wie 0.777778
+176 phis Hake is a  ie 0.833333
+177 Dhis Qake is a zie 0.833333
+178 Dhis Qake is a zie 0.833333
+179 Xhis Qake is a Die 0.833333
+180 phis Qake is a uie 0.833333
+181 ohis Fake is a uie 0.833333
+182 Bhis Take is a gie 0.833333
+183 chis Qake is a uie 0.833333
+184 Bhis Take is a Wie 0.833333
+185 phis Qake is a gie 0.833333
+186 ohis Qake is a uie 0.833333
+187 ohis Take is a gie 0.833333
+188 Lhis Qake is a Wie 0.833333
+189 Lhis Qake is a Rie 0.833333
+190 Jhis Hake is a Oie 0.833333
+191 Bhis Qake is a Lie 0.833333
+192 Lhis Qfke is a Rie 0.777778
+193 phis Qake is a Rie 0.833333
+194 Jhis Hake is a Lie 0.833333
+195 ThisrcakE is a Rie 0.833333
+196 ThisrcakE is a Rie 0.833333
+197 Jhis cake Js a Wie 0.833333
+198 Lhis cake is a Lie 0.888889
+199 ohis cake is a Lie 0.888889
+200 Xhis cake is a Lie 0.888889
+201 ohis cake is a Lie 0.888889
+202 ohis cake is a Lie 0.888889
+203 Lhiy cake is a Wie 0.833333
+204 ohis cfke is a Lie 0.833333
+205 ohis cfke is a Lie 0.833333
+206 Fhis Hake is a Aie 0.833333
+207 chis cake is a Wie 0.888889
+208 chis cake is a Wie 0.888889
+209 Dhis cake is a Wie 0.888889
+210 Jhis Hake is a Rie 0.833333
+211 Vhis cake is a Rie 0.888889
+212 Vhis cake is a Rie 0.888889
+213 Ihis cake is a Rie 0.888889
+214 Dhis lake is a Wie 0.833333
+215 Lhis Hake is a cie 0.833333
+216 ihis Qake is a Wie 0.833333
+217 vhis cake iy a rie 0.833333
+218 Jhis caketis a uie 0.833333
+219 vhis cake is a Aie 0.888889
+220 ohis cake isja Rie 0.833333
+221 vhis cake is a fie 0.888889
+222 ohis cake is a fie 0.888889
+223  his cake is w fie 0.833333
+224 ohisbcake is a Wie 0.833333
+225 ohis cZke is a Aie 0.833333
+226 ovis cake is a Wie 0.833333
+227 ohis cake vs a cie 0.833333
+228 ohis cake is a cie 0.888889
+229 ohis cake is a Wie 0.888889
+230 Fhis cake is a cie 0.888889
+231 Fhis Wake is a wie 0.833333
+232 shis cake is a Qie 0.888889
+233 Fhis cake is a Wie 0.888889
+234 Ahis cake is a Qie 0.888889
+235 Ahis cake is a Aie 0.888889
+236 shis cake is a Aie 0.888889
+237 Fhis aake is a Aie 0.833333
+238 shis cake is a Aie 0.888889
+239 ahis cake is a Aie 0.888889
+240 Whis cake is a Aie 0.888889
+241 rhis cake is a Aie 0.888889
+242 rhis cake is a Aie 0.888889
+243 rhis cake is a Aie 0.888889
+244 ahis cake is a Aie 0.888889
+245 lhis cake is a Aie 0.888889
+246 Fhis cake is a Aie 0.888889
+247 Whis cake is a kie 0.888889
+248 mhis cake is a Aie 0.888889
+249 Fhis cake is a Aie 0.888889
+250 Fhis cake is a Aie 0.888889
+251 mhis cake is a kie 0.888889
+252 phis ceke is a Aie 0.833333
+253 shiU cake is a Aie 0.833333
+254 phis ceke is a kie 0.833333
+255 Whis Gake is a Pie 0.833333
+256  his cako is a Nie 0.833333
+257 fhis cake it a Aie 0.833333
+258 phis cake is a fie 0.888889
+259 phis cake is a fie 0.888889
+260 phis Gake is a Aie 0.833333
+261 mhis cakD is a rie 0.833333
+262 mhis cakD is a rie 0.833333
+263 mhis cake is a Fie 0.888889
+264 mhis cakD is a rie 0.833333
+265 phis Pake is a Wie 0.833333
+266 vhis gake is a Cie 0.833333
+267 Whis cake is a Wie 0.888889
+268 Zhis cako is a Cie 0.833333
+269  his cdke is a Sie 0.833333
+270 FhisZcake is a Sie 0.833333
+271 FhisZcake is a Aie 0.833333
+272 phis Pake is a Aie 0.833333
+273 Chis uake is a eie 0.833333
+274  his cake is a miR 0.833333
+275 Fhis cake is a oie 0.888889
+276 Whis cake is a giR 0.833333
+277 Whis cake is a eie 0.888889
+278 FhiL cake is a Iie 0.833333
+279 Fhis cakexis a eie 0.833333
+280 Chis cake is a eie 0.888889
+281 Chis cake is a nie 0.888889
+282 Whis cakd is a Aie 0.833333
+283 Fhis cake is a oie 0.888889
+284 Fhis cake is a oie 0.888889
+285 Whis eake is a bie 0.833333
+286 Fhis Sake is a bie 0.833333
+287 Chir cake is a oie 0.833333
+288 rhis cake is a eie 0.888889
+289  hiE cake is a Xie 0.833333
+290 Hhis cake is a Aie 0.888889
+291 Hhis cake is a Aie 0.888889
+292 Fhis cakC is a Aie 0.833333
+293 Whis caqe is a Wie 0.833333
+294 phis Sake is a eie 0.833333
+295 Hhisacake is a eie 0.833333
+296 Fhis cake is a eie 0.888889
+297 Chis cake is a Aie 0.888889
+298 Fhis cake is a Aie 0.888889
+299 Chis cake is a xie 0.888889
+300 Ahis cake is a Aie 0.888889
+301 qhis Eake is a Eie 0.833333
+302 phis cake is a aie 0.888889
+303 Ahis cake is a e e 0.833333
+304 Fhis cake is a yie 0.888889
+305 qhiz cake is a lie 0.888889
+306 Hhis cake is alaie 0.833333
+307 Whis cake is a aie 0.888889
+308 Whis cake is a aie 0.888889
+309 Whis cake is a aie 0.888889
+310 Whis cake is a aie 0.888889
+311 qhis cake is a Hie 0.888889
+312 qhis cake is a Aie 0.888889
+313 qhis cake is a Aie 0.888889
+314 Whis cake is a Aie 0.888889
+315 Whis cake is a Aie 0.888889
+316 qhis cake is a xie 0.888889
+317 Whis cake is   aie 0.833333
+318 Whis cake is a aie 0.888889
+319 qhis cake is a aie 0.888889
+320 Whis cake is a Aie 0.888889
+321 qhis cake is a Lie 0.888889
+322 Whis cake is a iie 0.888889
+323 Ihis cake is a Lie 0.888889
+324 Ihis cake is a Lie 0.888889
+325 Whis cake is a oie 0.888889
+326 Whis cake is a oie 0.888889
+327 qhiszcake is a Hie 0.833333
+328 Ghis cake is a Hie 0.888889
+329 Whis cake is a oie 0.888889
+330 Ghis cake is a Hie 0.888889
+331 Whis cake is a Mie 0.888889
+332 Ahis caks is a Lie 0.833333
+333 Whis cake is a lie 0.944444
+334 Whis cake is a oie 0.888889
+335 Qhis cake is a oie 0.888889
+336 Whis cake is a Hie 0.888889
+337 Ahis cake is a pie 0.888889
+338 qhis cake is a tie 0.888889
+339 ohis cake is a Wie 0.888889
+340 Ghis cake is a Pie 0.888889
+341 qhis cake is a Wie 0.888889
+342 Ihis cake is a sie 0.888889
+343 bhis cake is a Lie 0.888889
+344 bhis cake is a Lie 0.888889
+345 bhis cake is a sie 0.888889
+346 Whis cake is a hie 0.888889
+347 fhis cake is a oie 0.888889
+348 Nhis cake is a Lie 0.888889
+349 Whis cake is a hie 0.888889
+350 qhis cake is a hie 0.888889
+351 Nhis cake is a Lib 0.833333
+352 Hhis cake is a Cie 0.888889
+353 Whis cake is a Zie 0.888889
+354 ohis cake is a oie 0.888889
+355 Whis cake is a oie 0.888889
+356 Whis cake is a oie 0.888889
+357 Whis cake is a oie 0.888889
+358 Whis cake is a aie 0.888889
+359 ohis cake is a eie 0.888889
+360 Uhis cake is a eie 0.888889
+361 Uhis cake is a eie 0.888889
+362 Ghis cakg is a lie 0.888889
+363 ohis cake is a Hie 0.888889
+364 ohis cake is a Hie 0.888889
+365 rhis cake is a lie 0.944444
+366 rhis cake is a lie 0.944444
+367 ohis cake is a Hie 0.888889
+368 ohis cake is a cie 0.888889
+369 nhis cake is a Hie 0.888889
+370 Uhis cake is a die 0.888889
+371 ehis Rake is a eie 0.833333
+372 Ahis case is a Hie 0.833333
+373 ohis cake rs a aie 0.833333
+374 ThiJ cake is a Hie 0.888889
+375 Uhis cakB is a lie 0.888889
+376 ohis cake rs a lie 0.888889
+377 ThiJ cake is O lie 0.888889
+378 ehil cake rs a lie 0.833333
+379 Tnis cake is aSZie 0.833333
+380 ohis cakeYis a cie 0.833333
+381 Tnis cake is a lie 0.944444
+382 ehis cake is a lPe 0.888889
+383 e is cake is a Hie 0.833333
+384 ehis cake is a rAe 0.833333
+385 Ahis Rake is a cie 0.833333
+386 Lhis cake isPa liy 0.833333
+387 KCis cake Ls a lie 0.833333
+388 lhis cake isPa l e 0.833333
+389 Ahis cake isPa lie 0.888889
+390 Yhis cake is aUlie 0.888889
+391 Lhis cake Ls a lie 0.888889
+392 Khis cake is w lie 0.888889
+393 Ghis cake is I lie 0.888889
+394 Lhis cake is a lie 0.944444
+395 Khis cake is a lie 0.944444
+396 Nhi  cake is a lie 0.888889
+397 lhis cake is a lie 0.944444
+398 vhis cake is a lie 0.944444
+399 Nhis cake is a lie 0.944444
+400 Lhis cake is a lie 0.944444
+401 Lhis cake is a lie 0.944444
+402 Lhis cake is a lie 0.944444
+403 vhis cake is a lie 0.944444
+404 Ghis cake is a liT 0.888889
+405 vhis cake is a lie 0.944444
+406 Vhis cake is a lie 0.944444
+407 Vhis cake is a lie 0.944444
+408 ehis cake is a lie 0.944444
+409 KhisXcake is a lie 0.888889
+410 Lhis cakeMis a lie 0.888889
+411 vhis cakevis a lie 0.888889
+412 Lhis cake Ls a lie 0.888889
+413 khis cake ir a lie 0.888889
+414 ehis cake ir a lie 0.888889
+415 Lhis cake Fs a lie 0.888889
+416 Lhis cake is a lie 0.944444
+417 vhis cake is aolie 0.888889
+418 ehis cake is a lie 0.944444
+419 ehis cake ns a lie 0.888889
+420 ehis cake is a Uie 0.888889
+421 Lhis cake is a lWe 0.888889
+422 Lhis cake iM a lie 0.888889
+423 Lhis zake is a lie 0.888889
+424 khis cake is a lWe 0.888889
+425 Lhis cake is a lBe 0.888889
+426 Lhis cake is a lie 0.944444
+427 Lhis cake is a lie 0.944444
+428 Lhis cake is a lie 0.944444
+429 uhis cake iE a lie 0.888889
+430 uhis cake iE a lie 0.888889
+431 Lhis caqe is a lie 0.888889
+432 uhis cake is a lie 0.944444
+433 nhisbcake is a lie 0.888889
+434 nhis cake is a lih 0.888889
+435 ehis cake ir a lie 0.888889
+436 Lhisbcake is a lie 0.888889
+437 uhis cake is a lie 0.944444
+438 nAis cake is a lie 0.888889
+439 kris cake is a lie 0.888889
+440 uhis cake is a lie 0.944444
+441 uhis cake Gs a lie 0.888889
+442 uhis cake Gs a lie 0.888889
+443 uhis cake Gs a lie 0.888889
+444 uhas cake is a lie 0.888889
+445 Lhis cake is a lie 0.944444
+446 Lhis cake is a lie 0.944444
+447 uhis cake is a lie 0.944444
+448 uhis cake is a lie 0.944444
+449 uhisncake is a lie 0.888889
+450 Phis cake is a lPe 0.888889
+451 Chis cake fs a lie 0.888889
+452 uhis cake is a lie 0.944444
+453 Chis cake is a lie 0.944444
+454 khis cake is a lie 0.944444
+455 This cake is aZlie 0.944444
+456 This cake is a lie 1

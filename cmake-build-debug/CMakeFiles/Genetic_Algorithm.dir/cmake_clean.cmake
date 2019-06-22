@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Genetic_Algorithm.dir/main.cpp.o"
-  "Genetic_Algorithm.pdb"
-  "Genetic_Algorithm"
+  "../bin/Genetic_Algorithm.pdb"
+  "../bin/Genetic_Algorithm"
 )
 
 # Per-language clean rules from dependency scanning.

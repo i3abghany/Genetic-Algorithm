@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Genetic_Algorithm.dir/main.cpp.o  -o Genetic_Algorithm 
+/usr/bin/c++  -g   CMakeFiles/Genetic_Algorithm.dir/main.cpp.o  -o ../bin/Genetic_Algorithm 

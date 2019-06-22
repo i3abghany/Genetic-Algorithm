@@ -28,8 +28,8 @@
 				</MakeCommands>
 			</Target>
 			<Target title="Genetic_Algorithm">
-				<Option output="/home/pi/CLionProjects/Genetic-Algorithm/cmake-build-debug/Genetic_Algorithm" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/pi/CLionProjects/Genetic-Algorithm/cmake-build-debug"/>
+				<Option output="/home/pi/CLionProjects/Genetic-Algorithm/bin/Genetic_Algorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/CLionProjects/Genetic-Algorithm/bin/"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -51,8 +51,8 @@
 				</MakeCommands>
 			</Target>
 			<Target title="Genetic_Algorithm/fast">
-				<Option output="/home/pi/CLionProjects/Genetic-Algorithm/cmake-build-debug/Genetic_Algorithm" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/pi/CLionProjects/Genetic-Algorithm/cmake-build-debug"/>
+				<Option output="/home/pi/CLionProjects/Genetic-Algorithm/bin/Genetic_Algorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/CLionProjects/Genetic-Algorithm/bin/"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>

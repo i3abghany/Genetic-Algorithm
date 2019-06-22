@@ -13,9 +13,13 @@ random
 -
 algorithm
 -
+chrono
+-
 
 /home/pi/CLionProjects/Genetic-Algorithm/main.cpp
 iostream
+-
+fstream
 -
 GeneticAlgorithm.hpp
 /home/pi/CLionProjects/Genetic-Algorithm/GeneticAlgorithm.hpp
