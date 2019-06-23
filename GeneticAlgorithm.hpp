@@ -103,10 +103,10 @@ void GeneticAlgorithm::Population::calculate_fitness() {
 
 DNA* GeneticAlgorithm::Population::get_best_fit() {
     auto d = *std::max_element(std::begin(GeneticAlgorithm::Population::genes),
-            std::end(GeneticAlgorithm::Population::genes),
-            [](const DNA *a, const DNA *b) {
-        return a->get_fitness() < b->get_fitness();
-    });
+                               std::end(GeneticAlgorithm::Population::genes),
+                               [](const DNA *a, const DNA *b) {
+                                   return a->get_fitness() < b->get_fitness();
+                               });
     Population::best_fit = d;
     return d;
 }
@@ -191,6 +191,5 @@ char GeneticAlgorithm::rand_char() {
     if (c == 63 || c == 64) c = ' ';
     return c;
 }
-
 
 #endif //GENETIC_ALGORITHM_GENETICALGORITHM_HPP
